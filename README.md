@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Awake-coding&color=090909)
 
-## Right now I'm a HTML/CSS-coder (developer)
+## Right now I'm a ```HTML/CSS-coder(developer)```
 - :memo: I like translating layouts into a functional working site
 - :dart: My next desired development step is to become a front-end developer
 
